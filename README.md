@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davide-coccomini&theme=transparent-duo&background=FFFFFF)](https://git.io/streak-stats)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=davide-coccomini)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **davide-coccomini/davide-coccomini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
